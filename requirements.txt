@@ -1,0 +1,10 @@
+streamlit
+opencv-python
+ultralytics
+torch
+torchvision
+pandas
+pytesseract
+mysql-connector-python
+flask
+flask-mysql-connector
